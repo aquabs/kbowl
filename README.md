@@ -1,4 +1,4 @@
-# kbowl
+# Camas High School Knowledge Bowl
 <!DOCTYPE html>
 <html>
 	<meta charset="utf-8"/>
