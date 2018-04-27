@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 	<meta charset="utf-8"/>
-	<link rel="stylesheet" type="text/css" href="main.css">
+	<link type="text/css" rel="stylesheet" href="stylesheets/main.css">
 <div class="container">
   <body>
   <div class="nav">
