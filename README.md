@@ -1,17 +1,19 @@
 # Camas High School Knowledge Bowl
-<!DOCTYPE html>
+	
+<!doctype html>
 <html>
-	<meta charset="utf-8"/>
+<head>
 	<link type="text/css" rel="stylesheet" href="stylesheets/main.css">
-<div class="container">
-  <body>
-  <div class="nav">
-    <h2>Ollie</h2>
-  	<ul>
-  		<li>sign up</li>
-  		<li>search bikes</li>
-  		<li>reserve a bike</li>
- 			 <li>about us</li>
-		</ul>
-    </div>
+	<title>Sprout</title>
+</head>
+<body>
+	<h1>Mystwood Publishers Ltd.</h1>
+	<div class="hero">
+		<h2>Sprout.</h2>
+		<p>A book by George Bedford Daniel.</p>
+		<a href="#">Read now.</a>
+	</div>
+	<p id = "footer">&copy; Mystwood Publishers Limited</p>
+</body>
 </html>
+
